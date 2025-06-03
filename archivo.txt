@@ -1,10 +1,11 @@
 Creación de Archivo
 Subida inicial del archivo.txt
 
-
-
-
 Usuario2 modifico archivo
 Usuario2 modifico otra vez archivo
 Usuario2 modifico de nuevo el archivo
 Usuario2 modifico una vez mas el archivo
+
+Usuario1 modifico archivo
+Usuario modificacion 2 de archivo
+
