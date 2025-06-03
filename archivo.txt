@@ -9,5 +9,12 @@ Subida inicial del archivo.txt
 
 
 
+
 Usuario3 modifico archivo
 Usuario3 modifico otra vez
+Usuario3 merge
+
+
+Usuario1 modifico archivo
+Usuario modificacion 2 de archivo
+
